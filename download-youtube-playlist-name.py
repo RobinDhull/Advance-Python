@@ -1,3 +1,5 @@
+# This program downloads the youtube-playlist video names and append them into a new file.
+
 import requests
 from bs4 import BeautifulSoup
 
